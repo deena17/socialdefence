@@ -1,0 +1,110 @@
+.caption {
+top:470px;
+background-color:black;
+text-align:center;
+font-size:28px;
+font-family:'Trebuchet MS',sans-serif;
+color:white;
+position:absolute;
+width:700px;
+height:70px;
+margin-bottom:0px;
+}
+.button {
+background-color: crimson;
+background-image: -webkit-linear-gradient(top, crimson, crimson);
+background-image: -moz-linear-gradient(top,crimson,crimson);
+display: inline-block;
+font-size: 14px;
+font-family: 'Meiryo UI';
+color: #fff;
+text-decoration: none !important;
+padding: 3px 3px;
+line-height: inherit;
+border:1px solid black;
+overflow: hidden;
+position: relative;
+border-radius: 2px;
+margin-top: 10px;
+margin-bottom: 0px;
+}
+.buttonblack {
+background-color:#000;
+/*background-image: -webkit-linear-gradient(top, crimson, crimson);
+background-image: -moz-linear-gradient(top,crimson,crimson);*/
+display: inline-block;
+font-size: 14px;
+font-family: 'Meiryo UI';
+color: #fff;
+text-decoration: none !important;
+padding: 3px 5px;
+line-height: inherit;
+border:1px solid black;
+overflow: hidden;
+position: relative;
+border-radius: 2px;
+margin-top: 10px;
+margin-bottom: 0px;
+}
+.buttonwhite {
+background-color:#fff;
+/*background-image: -webkit-linear-gradient(top, crimson, crimson);
+background-image: -moz-linear-gradient(top,crimson,crimson);*/
+display: inline-block;
+font-size: 14px;
+font-family: 'Meiryo UI';
+color: #000;
+text-decoration: none !important;
+padding: 3px 5px;
+line-height: inherit;
+overflow: hidden;
+border:1px solid black;
+position: relative;
+border-radius: 2px;
+margin-top: 10px;
+margin-bottom: 0px;
+}
+	.button:hover {
+		opacity: 0.9;
+	}
+	#content{
+	font-family: 'Lato', sans-serif;
+	text-align:justify;
+	padding:5px;
+	background-color:none;
+	font-size:16px;
+	}
+	#incfont{
+	background-color:orange;
+    background-image: -webkit-linear-gradient(top, orange, orange);
+    background-image: -moz-linear-gradient(top,orange,orange);
+	color:black;
+	}
+	#decfont{
+	background-color: orange;
+    background-image: -webkit-linear-gradient(top, orange, orange);
+    background-image: -moz-linear-gradient(top,orange,orange);
+	color:black;
+	}
+    #black{
+	background-color:black;
+    /*background-image: -webkit-linear-gradient(top, orange, orange);
+    background-image: -moz-linear-gradient(top,orange,orange);*/
+	color:white;
+	}
+    #white{
+	background-color:white;
+    /*background-image: -webkit-linear-gradient(top, orange, orange);
+    background-image: -moz-linear-gradient(top,orange,orange);*/
+	color:black;
+	}
+	#fontlinks{
+	margin-left:30%;
+	margin-right:30%;
+	text-align:center;
+	}
+	.buttonfont{
+	color:dimgrey;
+	}
+	
+
